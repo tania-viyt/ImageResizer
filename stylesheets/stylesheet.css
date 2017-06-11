@@ -479,8 +479,7 @@ header h2 {
 }
 
 footer {
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 20px;
     font-size: 15px;
     color: white;
     background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
