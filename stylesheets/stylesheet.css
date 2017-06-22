@@ -542,11 +542,11 @@ a.button small {
 }
 
 a.button:hover {
-    background: #6daaff;
+
 }
 
 a.button:active {
-    background: #00509d;
+
 }
 
 header a.button {
