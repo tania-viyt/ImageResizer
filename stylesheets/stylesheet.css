@@ -541,14 +541,6 @@ a.button small {
     font-size: 11px;
 }
 
-a.button:hover {
-
-}
-
-a.button:active {
-
-}
-
 header a.button {
     position: absolute;
     top: 0;
