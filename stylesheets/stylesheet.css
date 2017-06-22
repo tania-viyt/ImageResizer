@@ -541,7 +541,7 @@ a.button small {
     font-size: 11px;
 }
 
-a.button:active {
+button:active {
     vertical-align: top;
     padding: 8px 13px 6px;
 }
