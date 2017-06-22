@@ -541,9 +541,12 @@ a.button small {
     font-size: 11px;
 }
 
-button:active {
-    vertical-align: top;
-    padding: 8px 13px 6px;
+a.button:hover {
+    background: #6daaff;
+}
+
+a.button:active {
+    background: #00509d;
 }
 
 header a.button {
