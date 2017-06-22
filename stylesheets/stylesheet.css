@@ -541,6 +541,11 @@ a.button small {
     font-size: 11px;
 }
 
+a.button:active {
+    vertical-align: top;
+    padding: 8px 13px 6px;
+}
+
 header a.button {
     position: absolute;
     top: 0;
